@@ -1,0 +1,3 @@
+Hello 
+for cloning git
+downloading remote or git devops-course-practice  directory to local directory 
